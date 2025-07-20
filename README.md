@@ -1,6 +1,6 @@
 # **Ciencia de datos sin tantos datos**
 
-# 🐇 El camino del Conejo Mago  
+# 🐇 El camino del Conejo Hechicero  
 ### Ciencia de datos práctica, sin tecnicismos, sin miedo... y con un toque de magia
 
 ¿Tienes más de 40 y sientes que todo el mundo habla de Python, SQL y datos como si fuera lo más normal?  
