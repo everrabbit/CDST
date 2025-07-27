@@ -1,4 +1,4 @@
-#🐇✨ Ciencia de datos práctica, sin tecnicismos, sin miedo... y con un toque de magia
+# 🐇✨ Ciencia de datos práctica, sin tecnicismos, sin miedo... y con un toque de magia
 
 Con todo lo que se ve en redes, pareciera que aprender ciencia de datos es como **entrar a la Matrix**  
 (💾 bueno... si naciste antes de los 90s sabes de qué hablo).  
