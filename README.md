@@ -1,4 +1,4 @@
-# Ciencia de datos práctica, sin tecnicismos, sin miedo... y con un toque de magia
+#🐇✨ Ciencia de datos práctica, sin tecnicismos, sin miedo... y con un toque de magia
 
 Con todo lo que se ve en redes, pareciera que aprender ciencia de datos es como **entrar a la Matrix**  
 (💾 bueno... si naciste antes de los 90s sabes de qué hablo).  
@@ -33,7 +33,7 @@ porque este viaje está dividido en tres niveles épicos que combinan aprendizaj
 > Lo único que necesitas es curiosidad, y ganas de aprender algo nuevo.*
 
 ---
-Prepárate para convertirte en un **Conejo Mago de los Datos**, porque este viaje está dividido en tres niveles épicos que combinan aprendizaje, humor y poder real.
+## 🐾Prepárate para convertirte en un **Conejo Mago de los Datos**, porque este viaje está dividido en tres niveles épicos que combinan aprendizaje, humor y poder real.
 
 #  ⚠️ [No olvides consultar que necesitarás en tu camino mágico](./Primeros%20Pasos/README.md)
 
