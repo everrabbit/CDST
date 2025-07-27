@@ -19,7 +19,7 @@ Prepárate para convertirte en un **Conejo Mago de los Datos**, porque este viaj
 
 ---
 
-#  ⚠️ [No olvides consultar que necesitarás en tu camino mágico](../Primeros%20Pasos/)
+#  ⚠️ [No olvides consultar que necesitarás en tu camino mágico](https://github.com/everrabbit/CDST/tree/main/Primeros%20Pasos)
 
 
 # 🐰 Nivel 1 — Conejo aprendiz de magia  
