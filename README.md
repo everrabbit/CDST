@@ -6,11 +6,11 @@ Como si hubiera que tener un doctorado en física para tocar una base de datos.
 Y tú acá, pensando:  
 > “Yo solo conozco Excel... porque lo usamos en el trabajo hace siglos.”
 
-¿Te suena familiar?
+**¿Te suena familiar?**
 
-¿Estudiaste algo que ya no te llena, o estás buscando explorar un nuevo camino?  
-¿Sientes que esto de los datos es solo para gente joven, técnica o “muy lista”?  
-¿O también eres tan joven que ni siquiera sabes qué estudiar y esto te suena a ciencia ficción?
+- ¿Estudiaste algo que ya no te llena, o estás buscando explorar un nuevo camino?  
+- ¿Sientes que esto de los datos es solo para gente joven, técnica o “muy lista”?  
+- ¿O también eres tan joven que ni siquiera sabes qué estudiar y esto te suena a ciencia ficción?
 
 🧡 Respira. Este espacio es para ti.
 
