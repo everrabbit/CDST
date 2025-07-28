@@ -37,7 +37,7 @@ porque este viaje está dividido en tres niveles épicos que combinan aprendizaj
 #  ⚠️ [No olvides consultar que necesitarás en tu camino mágico](./Primeros%20Pasos/README.md)
 
 
-# 🐰 Nivel 1 — Conejo aprendiz de magia  
+# 🐰 [Nivel 1 — Conejo aprendiz de magia](./Nivel%201%20—%20Conejo%20aprendiz%20de%20magia/)  
 *“No tengo idea de nada… pero tengo ganas. Y una hoja de Excel.”*
 
 Aquí empieza la aventura. No sabes programar, no conoces Pandas, y crees que SQL es una nueva sigla de impuestos.  
@@ -58,7 +58,7 @@ Vas a:
 
 ---
 
-# 🪄🐇 Nivel 2 — Conejo en formación mágica  
+# 🪄🐇 [Nivel 2 — Conejo en formación mágica](./Nivel%202%20—%20Conejo%20en%20formación%20mágica/)  
 *“Ya no le tengo miedo al código… ahora le tengo respeto.”*
 
 Has sobrevivido al primer hechizo.  
@@ -80,7 +80,7 @@ Vas a:
 
 ---
 
-# 👑🐇 Nivel 3 — Conejo maestro de datos  
+# 👑🐇 [Nivel 3 — Conejo maestro de datos](./Nivel%203%20—%20Conejo%20maestro%20de%20datos/)  
 *“Ahora sí, te explico con calma por qué tus gráficas están mal.”*
 
 Aquí no vienes a seguir recetas. Aquí vienes a crear tus propios conjuros.  
@@ -103,6 +103,14 @@ Vas a:
 ---
 
 # 🎩 ¿Y ahora qué?
+
+## 📚 **Explora las carpetas del repositorio:**
+
+- 🚀 **[Primeros Pasos](./Primeros%20Pasos/)** - Configuración inicial y requisitos
+- 🐰 **[Nivel 1 — Conejo aprendiz de magia](./Nivel%201%20—%20Conejo%20aprendiz%20de%20magia/)** - Para principiantes absolutos
+- 🪄 **[Nivel 2 — Conejo en formación mágica](./Nivel%202%20—%20Conejo%20en%20formación%20mágica/)** - Nivel intermedio
+- 👑 **[Nivel 3 — Conejo maestro de datos](./Nivel%203%20—%20Conejo%20maestro%20de%20datos/)** - Nivel avanzado
+- 🛠️ **[Simples pero muy útiles 🐇](./Simples%20pero%20muy%20útiles%20🐇/)** - Herramientas y trucos prácticos
 
 Elige tu nivel, explora la carpeta correspondiente y empieza a construir tu magia.  
 No necesitas tener 20 años ni un doctorado en estadística. Solo necesitas ganas, paciencia, sentido del humor…  
