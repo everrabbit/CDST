@@ -219,4 +219,3 @@ Ya que vas a descubrir cosas geniales con los datos, también hay que saber **c�
 🎩 *Recuerda: no tienes que instalar TODO hoy. Ve poco a poco. Y si algo falla… es parte del juego.*
 
 🐇✨ ¡Ya estás armando tu laboratorio mágico!  
-¿Avanzamos a la estructura del proyecto o quieres links/videos recomendados?
