@@ -220,3 +220,7 @@ Ya que vas a descubrir cosas geniales con los datos, también hay que saber **c�
 
 🐇✨ ¡Ya estás armando tu laboratorio mágico!  
 ¿Avanzamos a la estructura del proyecto o quieres links/videos recomendados?
+
+---
+
+### 🏠 [← Ir al inicio](../README.md)
