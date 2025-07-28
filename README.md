@@ -1,23 +1,38 @@
-# **Ciencia de datos sin tantos datos**
+# 🐇✨ **Ciencia de Datos sin Tantos Datos** (práctica, sin tecnicismos, sin miedo... y con un toque de magia)
 
-# 🐇 El camino del Conejo Hechicero  
-### Ciencia de datos práctica, sin tecnicismos, sin miedo... y con un toque de magia
+Con todo lo que se ve en redes, pareciera que aprender ciencia de datos es como **entrar a la Matrix**  (💾 bueno... si naciste antes de los 90s sabes de qué hablo).  
+Como si solo la gente que trabaja en la NASA supiera usar Python o SQL.  
+Como si hubiera que tener un doctorado en física para tocar una base de datos.  
+Y tú acá, pensando:  
+> “Yo solo conozco Excel... porque lo usamos en el trabajo hace siglos.”
 
-¿Tienes más de 40 y sientes que todo el mundo habla de Python, SQL y datos como si fuera lo más normal?  
-¿Te da curiosidad, pero también un poquito de miedo meterte en eso?  
-**Bienvenido. Estás en el lugar perfecto.**
+**¿Te suena familiar?**
+
+- ¿Estudiaste algo que ya no te llena, o estás buscando explorar un nuevo camino?  
+- ¿Sientes que esto de los datos es solo para gente joven, técnica o “muy lista”?  
+- ¿O también eres tan joven que ni siquiera sabes qué estudiar y esto te suena a ciencia ficción?
+
+🧡 Respira. Este espacio es para ti.
 
 Este proyecto no es un curso más.  
-Es un recorrido paso a paso, diseñado para que cualquier persona —sí, aunque nunca hayas programado ni abierto una base de datos— pueda aprender a **usar los datos para entender, analizar y mejorar el mundo que te rodea**.
+Es un recorrido paso a paso, diseñado para personas que **no vienen del mundo de la tecnología**,  
+que **no crecieron programando**, y que aún así quieren entender, analizar y usar los datos en su vida real.
 
-Y lo mejor: lo harás usando **Excel, Python y SQL juntos**, desde el día uno, sin vueltas, sin complicaciones, y sin sentir que estás en una clase de ingeniería.
+Y lo mejor: lo harás usando **Excel, Python y SQL juntos**, desde el día uno,  
+sin vueltas, sin fórmulas crípticas, y sin sentir que estás en una clase de ingeniería cuántica.
 
 Aquí aprenderás como un mago... 🧙‍♂️  
 ...pero uno con orejas largas, muchas preguntas, y una libreta llena de datos reales. 🐇✨
 
-Prepárate para convertirte en un **Conejo Mago de los Datos**, porque este viaje está dividido en tres niveles épicos que combinan aprendizaje, humor y poder real.
+Prepárate para convertirte en un Conejo Mago de los Datos,  
+porque este viaje está dividido en tres niveles épicos que combinan aprendizaje, humor y poder real.
+
+> 🎩 *No importa si vienes de otra carrera, si nunca programaste,  
+> si no sabes qué estudiar o si te sientes fuera de lugar.  
+> Lo único que necesitas es curiosidad, y ganas de aprender algo nuevo.*
 
 ---
+## 🐾Prepárate para convertirte en un **Conejo Mago de los Datos**, porque este viaje está dividido en tres niveles épicos que combinan aprendizaje, humor y poder real.
 
 #  ⚠️ [No olvides consultar que necesitarás en tu camino mágico](./Primeros%20Pasos/README.md)
 
