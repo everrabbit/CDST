@@ -218,4 +218,8 @@ Ya que vas a descubrir cosas geniales con los datos, también hay que saber **c�
 
 🎩 *Recuerda: no tienes que instalar TODO hoy. Ve poco a poco. Y si algo falla… es parte del juego.*
 
-🐇✨ ¡Ya estás armando tu laboratorio mágico! 
+🐇✨ ¡Ya estás armando tu laboratorio mágico!
+
+---
+
+### 🏠 [← Ir al inicio](../README.md) 
